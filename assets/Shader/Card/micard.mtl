@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.Material",
+  "_name": "micard",
+  "_objFlags": 0,
+  "_native": "",
+  "_effectAsset": {
+    "__uuid__": "02f942dd-f5b6-4a61-8a58-86834356d63a"
+  },
+  "_techniqueIndex": 0,
+  "_techniqueData": {
+    "0": {
+      "props": {
+        "sprWidth": 210,
+        "sprHight": 300
+      },
+      "defines": {
+        "USE_TEXTURE": true
+      }
+    }
+  }
+}

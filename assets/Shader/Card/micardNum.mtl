@@ -1,0 +1,57 @@
+{
+  "__type__": "cc.Material",
+  "_name": "micardNum",
+  "_objFlags": 0,
+  "_native": "",
+  "_effectAsset": {
+    "__uuid__": "7af8f464-5c89-48c1-be7e-a6410e3a9b27"
+  },
+  "_techniqueIndex": 0,
+  "_techniqueData": {
+    "0": {
+      "props": {
+        "sprWidth": 447,
+        "sprHight": 631,
+        "worldSprWidth": 447,
+        "worldSprHeight": 631,
+        "worldPos": {
+          "__type__": "cc.Vec2",
+          "x": 270,
+          "y": 270
+        },
+        "xlist": {
+          "__type__": "cc.Vec4",
+          "x": 0,
+          "y": 10000,
+          "z": 0,
+          "w": 0
+        },
+        "ylist2": {
+          "__type__": "cc.Vec2",
+          "x": 10000,
+          "y": 0
+        },
+        "ylist": {
+          "__type__": "cc.Vec4",
+          "x": 0,
+          "y": 0,
+          "z": 1000,
+          "w": 0
+        },
+        "disX": {
+          "__type__": "cc.Vec2",
+          "x": 0,
+          "y": 0
+        },
+        "disXSymmetricPos": {
+          "__type__": "cc.Vec2",
+          "x": 0,
+          "y": 0
+        }
+      },
+      "defines": {
+        "USE_TEXTURE": true
+      }
+    }
+  }
+}
